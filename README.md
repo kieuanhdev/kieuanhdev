@@ -4,6 +4,8 @@
 
 **Fullstack Developer**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-kieuanhdev.github.io-4C4F69?style=flat-square)](https://kieuanhdev.github.io)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=CDD6F4&center=true&vCenter=true&width=620&height=40&lines=Fullstack+Developer;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4C4F69&center=true&vCenter=true&width=620&height=40&lines=Fullstack+Developer;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
@@ -90,13 +92,12 @@ Flutter desktop reader for EPUB and PDF, with a local library and saved reading 
 
 - Email: [kieuanh.dev@gmail.com](mailto:kieuanh.dev@gmail.com)
 - GitHub: [github.com/kieuanhdev](https://github.com/kieuanhdev)
+- [![Facebook](https://img.shields.io/badge/Facebook-Kieuanh.dev-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/Kieuanh.dev)
+- [![Portfolio](https://img.shields.io/badge/Portfolio-kieuanhdev.github.io-4C4F69?style=flat-square)](https://kieuanhdev.github.io)
 
 <!--
 LinkedIn — uncomment and replace the placeholder:
 [LinkedIn](https://www.linkedin.com/in/your-handle)
-
-Facebook — uncomment and replace the placeholder:
-[Facebook](https://www.facebook.com/your-profile)
 -->
 
 ## Contributions
