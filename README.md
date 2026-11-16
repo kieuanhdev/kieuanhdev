@@ -19,8 +19,7 @@ Fullstack developer working across Flutter, Next.js, and Spring Boot.
 ## About me
 
 - Fullstack apps: Flutter and Next.js on the client, Spring Boot on the API.
-- Public repos also include TypeScript and Next.js frontends, PHP/Laravel ([CSE485](https://github.com/kieuanhdev/CSE485Lab04)), and C# WinForms on .NET Framework ([QLGym](https://github.com/kieuanhdev/QLGym), [4A_NET](https://github.com/kieuanhdev/4A_NET)).
-- Smaller experiments: Python tooling, an ESP32 waste-sorting demo, and a Unity 2D runner.
+- Other public work includes a Next.js portfolio and a Python research toolkit.
 
 ## Tech stack
 
@@ -86,8 +85,6 @@ Web-novel site: a Next.js reader for novels, chapters, and comments, backed by a
 ### [ebook-reader](https://github.com/kieuanhdev/ebook-reader)
 
 Flutter desktop reader for EPUB and PDF, with a local library and saved reading progress.
-
-Other public work: [QLGym](https://github.com/kieuanhdev/QLGym) (C# gym desktop app), [4A_NET](https://github.com/kieuanhdev/4A_NET), [laptopshop](https://github.com/kieuanhdev/laptopshop) (Spring Boot), [CSE485Lab04](https://github.com/kieuanhdev/CSE485Lab04) (Laravel), [Runner2D](https://github.com/kieuanhdev/Runner2D) (Unity), and [IOT](https://github.com/kieuanhdev/IOT) (ESP32 waste sorting).
 
 ## Contact
 
