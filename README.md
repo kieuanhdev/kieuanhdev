@@ -2,24 +2,24 @@
 
 # Nguyễn Kiều Anh
 
-**Web Developer · IT Student**
+**Web Developer**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=CDD6F4&center=true&vCenter=true&width=620&height=40&lines=Web+Developer+%C2%B7+IT+Student;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4C4F69&center=true&vCenter=true&width=620&height=40&lines=Web+Developer+%C2%B7+IT+Student;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
-  <img alt="Web Developer · IT Student. Flutter · Spring Boot · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4C4F69&center=true&vCenter=true&width=620&height=40&lines=Web+Developer+%C2%B7+IT+Student;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=CDD6F4&center=true&vCenter=true&width=620&height=40&lines=Web+Developer;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4C4F69&center=true&vCenter=true&width=620&height=40&lines=Web+Developer;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
+  <img alt="Web Developer. Flutter · Spring Boot · TypeScript" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=4C4F69&center=true&vCenter=true&width=620&height=40&lines=Web+Developer;Flutter+%C2%B7+Spring+Boot+%C2%B7+TypeScript" />
 </picture>
 
-Mình là sinh viên IT, tập trung vào Flutter và Spring Boot, và đang học bằng cách làm web cùng ứng dụng di động.
+Mình làm web và ứng dụng di động, tập trung vào Flutter và Spring Boot.
 
-I'm an IT student focused on Flutter and Spring Boot, learning by building web and mobile apps.
+I build web and mobile apps with Flutter and Spring Boot.
 
 </div>
 
 ## About me
 
-- IT student building web and mobile apps, mostly with Flutter and Spring Boot.
-- Public repos also include TypeScript and Next.js frontends, PHP/Laravel coursework ([CSE485](https://github.com/kieuanhdev/CSE485Lab04)), and C# WinForms on .NET Framework ([QLGym](https://github.com/kieuanhdev/QLGym), [4A_NET](https://github.com/kieuanhdev/4A_NET)).
+- Building web and mobile apps, mostly with Flutter and Spring Boot.
+- Public repos also include TypeScript and Next.js frontends, PHP/Laravel ([CSE485](https://github.com/kieuanhdev/CSE485Lab04)), and C# WinForms on .NET Framework ([QLGym](https://github.com/kieuanhdev/QLGym), [4A_NET](https://github.com/kieuanhdev/4A_NET)).
 - Smaller experiments: Python tooling, an ESP32 waste-sorting demo, and a Unity 2D runner.
 
 ## Tech stack
